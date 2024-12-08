@@ -3,6 +3,10 @@
 Embla Carouselを使用したReact + Viteプロジェクトです。
 
 
+## 参考にしたサイト
+https://www.embla-carousel.com/get-started/react/
+
+
 ## 機能
 
 - 自動スライドショー
